@@ -1,4 +1,4 @@
 function Home(){
-    return <div>Home3</div>
+    return <div>Cantinho Maranhense</div>
 }
 export default Home
